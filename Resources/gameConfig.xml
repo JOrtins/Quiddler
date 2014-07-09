@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiddler_config>
+	<user_count>2</user_count>
+	<round_count>5</round_count>
+	<game_limit>15</game_limit>
+	<turn_limit>3</turn_limit>
+</quiddler_config>
